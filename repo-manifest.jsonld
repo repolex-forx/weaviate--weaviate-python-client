@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/weaviate/weaviate-python-client/commit/671f0a5c6023cbeb3efe3311805276030ddc824d",
       "git:hexsha": "671f0a5c6023cbeb3efe3311805276030ddc824d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/weaviate/weaviate-python-client/commit/bd15206e339d29c5a7b85ffce594e3442b09dc90",
