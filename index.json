@@ -1,0 +1,11 @@
+{
+  "org": "weaviate",
+  "repo": "weaviate-python-client",
+  "versions": [
+    {
+      "commit": "671f0a5c6023cbeb3efe3311805276030ddc824d",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:46:44.758572+00:00"
+    }
+  ]
+}
